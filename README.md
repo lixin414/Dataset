@@ -7,7 +7,7 @@ This repository contains the dataset used in the study on gender detection of Ch
 The dataset includes annotated images of Chinese mitten crabs for gender classification tasks. It is organized into two main subsets: male and female samples. The data is provided as a compressed archive.
 
 *   **File Name**: `Crab-dataset.rar`
-*   **File Size**: Approximately [1.2 GB]
+*   **File Size**: Approximately 
 *   **Format**: `.rar` archive containing image files and a metadata CSV file.
 
 ## ⬇️ Download
