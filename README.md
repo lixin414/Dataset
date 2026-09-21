@@ -15,7 +15,8 @@ The dataset includes annotated images of Chinese mitten crabs for gender classif
 Due to the large file size, the dataset is hosted on Baidu Netdisk. You can download it using the link and extraction code below:
 
 *   **Download Link**: https://pan.baidu.com/s/1txTj2b8zgGMofjgmKYedFw
-*   **Extraction Code**: `33iv`
+*   **Access note: Due to commercial confidentiality, the extraction code is not publicly available. Researchers who wish to access the full dataset are requested to contact the corresponding author for authorization and access information.
+*   Extraction Code**:
 
 > **Note**: For the best download experience, it is recommended to install the Baidu Netdisk application or copy the link to open it in the mobile app.
 
